@@ -1,0 +1,21 @@
+{
+    "CurrentVersion": "V0.5",
+    "Index": 3,
+    "LauncherHash": "80d35e500514b71724cae7622670d5fe780d1163",
+	"LauncherPath": "https://github.com/ShiinaNene/ASLauncher/releases/download/1.2/ASLauncher.exe",
+	"LauncherUpdaterPath": "https://github.com/ShiinaNene/ASLauncher/releases/download/1.2/ASLauncherUpdater.exe",
+    "Versions": [
+        {
+            "Name": "V0.3UF",
+            "Index": "1"
+        },
+        {
+            "Name": "V0.4",
+            "Index": "2"
+        },
+		{
+            "Name": "V0.5",
+            "Index": "3"
+        }
+    ]
+}
